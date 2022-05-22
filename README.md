@@ -1,6 +1,6 @@
+# Hi there, I am Ally👋
 
-
-<h2>My tech Stack 👋<h2>
+### 📖 Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -8,3 +8,8 @@
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![node](https://img.shields.io/badge/node-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![git](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🚀 Quick Stats
+
+![Ally's GitHub stats](https://github-readme-stats.vercel.app/api?username=aocl333&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aocl333&layout=compact&theme=default_repocard)
