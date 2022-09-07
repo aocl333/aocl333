@@ -12,6 +12,5 @@
 ### 🚀 Quick Stats
 
 <p>
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=aocl333&show_icons=true&line_height=20&theme=default" alt="aocl333's Github Stats" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aocl333&langs_count=6&line_height=35&hide=handlebars,jupyter notebook&layout=compact&theme=default_repocard" alt="aocl333's Github Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aocl333&show_icons=true&line_height=20&theme=default" alt="aocl333's Github Stats" />
 </p>
