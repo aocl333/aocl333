@@ -12,5 +12,5 @@
 ### 🚀 Quick Stats
 
 <p>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aocl333&show_icons=true&line_height=20&theme=default" alt="aocl333's Github Stats" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=aocl333&show_icons=true&line_height=20&theme=default" alt="aocl333's Github Stats" />
 </p>
